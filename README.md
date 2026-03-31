@@ -43,22 +43,33 @@
 
 ## 🔥 Featured Projects
 
+## 🔥 Featured Projects
+
+---
+
 ### 🎬 Smart YouTube Downloader
-⚡ Download MP4 & MP3 with live progress tracking  
-🛠 Python | Flask | JavaScript  
+A web application that allows users to download YouTube videos in MP4 format and extract audio in MP3 format with real-time progress tracking, speed, and file size display.  
+🛠 **Tech Stack:** Python, Flask, HTML, CSS, JavaScript, yt-dlp, FFmpeg  
+
+---
+
+### 📝 Resume Generator
+A web-based resume builder that enables users to create professional resumes through a simple form interface with instant preview and structured formatting.  
+🛠 **Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+### 🤟 Sign Language Recognition System
+A machine learning-based system that detects hand gestures and converts sign language into readable text, helping bridge communication gaps.  
+🛠 **Tech Stack:** Python, OpenCV, Machine Learning  
 
 ---
 
 ### 📰 News Trend Analysis
-📊 Analyze news trends using APIs and visualization  
-🛠 Python | NewsAPI  
+A data-driven application that analyzes news articles based on keywords and visualizes trends over time using charts and real-time API data.  
+🛠 **Tech Stack:** Python, NewsAPI, Data Visualization  
 
 ---
-
-### 🧠 Gout Disease Detection
-🤖 ML-based disease prediction system  
-🛠 Python | Machine Learning  
-
 ---
 
 ## 🌐 Connect With Me
@@ -88,8 +99,7 @@
 
 ## ✨ Developer Quote
 
-_"Consistency beats talent when talent doesn't work hard."_  
+_"Code is like humor. When you have to explain it, it’s bad."_  
 
 ---
 
-⭐️ Designed & Built by Mohammed Muzammil M 🚀
