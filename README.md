@@ -21,6 +21,7 @@
 I enjoy traveling and exploring new places 🌍, which inspires me to think creatively and build meaningful projects.
 
 ---
+## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,opencv,tensorflow,git,github,mysql,vscode" />
