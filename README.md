@@ -1,27 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mohammed Muzammil M</h1>
-<h3 align="center">Aspiring Software Developer | Front-End & AI/ML Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Front-End+Engineer;AI+%2F+ML+Enthusiast;Building+Real-World+Projects" />
+</p>
 
 ---
 
-## 🌟 About Me
-- 💻 Front-End Developer & AI/ML Enthusiast  
-- 🚀 Building real-world applications  
-- 🌱 Currently learning Machine Learning & Data Structures  
-- 🎯 Goal: To become a Software Engineer  
+## 🧠 About Me
+
+💻 Passionate about building real-world applications  
+🚀 Focused on Web Development & AI/ML  
+📚 Currently learning Data Structures & Machine Learning  
+🎯 Goal: Become a Software Engineer  
 
 ---
 
-## 📖 Short Bio
-I am a passionate developer focused on building scalable web applications and AI-based solutions. I enjoy solving real-world problems using technology.
-
----
-
-## ⚡ Fun Fact
-I turn ideas into code and coffee ☕ into solutions 💻  
-
----
-
-## 🧑‍💻 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,mysql" />
@@ -29,43 +23,48 @@ I turn ideas into code and coffee ☕ into solutions 💻
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muzammil-04&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muzammil-04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
-- 🦈 Pull Shark  
-- 🚀 Open Source Contributor  
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mohammed-Muzammil-04/Mohammed-Muzammil-04/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
 ### 🎬 Smart YouTube Downloader
-Web app to download YouTube videos (MP4) and audio (MP3) with live progress tracking.  
-**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, yt-dlp, FFmpeg  
+⚡ Download MP4 & MP3 with live progress tracking  
+🛠 Python | Flask | JavaScript  
 
 ---
 
 ### 📰 News Trend Analysis
-Analyzes news articles based on keywords and visualizes trends using charts.  
-**Tech Stack:** Python, NewsAPI, Data Visualization  
+📊 Analyze news trends using APIs and visualization  
+🛠 Python | NewsAPI  
 
 ---
 
-### 🧠 Gout Disease Detection (ML Project)
-Machine learning-based system for detecting gout using uric acid analysis.  
-**Tech Stack:** Python, Machine Learning, Data Analysis  
+### 🧠 Gout Disease Detection
+🤖 ML-based disease prediction system  
+🛠 Python | Machine Learning  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-muzammil-m-1a19512b9">
@@ -76,10 +75,17 @@ Machine learning-based system for detecting gout using uric acid analysis.
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mohammed-Muzammil-04&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-⭐️ From [Mohammed-Muzammil-04](https://github.com/Mohammed-Muzammil-04)
+## ✨ Developer Quote
+
+_"Consistency beats talent when talent doesn't work hard."_  
+
+---
+
+⭐️ Designed & Built by Mohammed Muzammil M 🚀
