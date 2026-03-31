@@ -22,13 +22,8 @@ I enjoy traveling and exploring new places 🌍, which inspires me to think crea
 
 ---
 
-## 💻 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react" /><br>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,opencv,tensorflow,git,github,mysql,vscode" />
 </p>
 
 ---
