@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mohammed Muzammil M</h1>
-<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Front-End & AI/ML Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me
 - 💻 Front-End Developer & AI/ML Enthusiast  
-- 🚀 Building real-world projects  
-- 🌱 Currently learning DSA & Machine Learning  
-- 🎯 Goal: Software Engineer  
+- 🚀 Building real-world applications  
+- 🌱 Currently learning Machine Learning & Data Structures  
+- 🎯 Goal: To become a Software Engineer  
+
+---
+
+## 📖 Short Bio
+I am a passionate developer focused on building scalable web applications and AI-based solutions. I enjoy solving real-world problems using technology.
+
+---
+
+## ⚡ Fun Fact
+I turn ideas into code and coffee ☕ into solutions 💻  
 
 ---
 
@@ -22,9 +32,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muzammil-04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -35,35 +45,41 @@
 
 ---
 
-## 📌 Projects
+## 🔥 Projects
 
 ### 🎬 Smart YouTube Downloader
-Download videos & audio with live progress  
-**Tech:** Python, Flask, JS  
+Web app to download YouTube videos (MP4) and audio (MP3) with live progress tracking.  
+**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, yt-dlp, FFmpeg  
 
 ---
 
 ### 📰 News Trend Analysis
-Keyword-based news analysis with graphs  
-**Tech:** Python, API  
+Analyzes news articles based on keywords and visualizes trends using charts.  
+**Tech Stack:** Python, NewsAPI, Data Visualization  
 
 ---
 
-### 🧠 Gout Detection ML
-ML model for disease detection  
-**Tech:** Python, ML  
+### 🧠 Gout Disease Detection (ML Project)
+Machine learning-based system for detecting gout using uric acid analysis.  
+**Tech Stack:** Python, Machine Learning, Data Analysis  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/mohammed-muzammil-m-1a19512b9">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Muzammil-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-## 👀 Visitor Count
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mohammed-Muzammil-04&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐️ From [Mohammed-Muzammil-04](https://github.com/Mohammed-Muzammil-04)
