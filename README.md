@@ -9,18 +9,18 @@
 ---
 
 ## 🧠 About Me
-
+<h2>
 💻 Passionate about building real-world applications  
 🚀 Focused on Web Development & AI/ML  
 📚 Currently learning Data Structures & Machine Learning  
 🎯 Goal: Become a Software Engineer  
-
+</h2>
 ---
 
 ## ☄️ Fun fact
-
+<h2>
 🌍 I enjoy traveling and exploring new places, which inspires creativity and helps me build meaningful projects.
-
+</h2>
 ---
 
 ## 💻 Tech Stack  
