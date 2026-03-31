@@ -99,7 +99,7 @@ A data-driven application that analyzes news articles based on keywords and visu
 
 ## ✨ Developer Quote
 
-_"Code is like humor. When you have to explain it, it’s bad."_  
+<h3>_"Code is like humor. When you have to explain it, it’s bad."_</h3>  
 
 ---
 
