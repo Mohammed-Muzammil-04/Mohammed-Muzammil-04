@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<h2>
 ## 🧠 About Me
 
 💻 Passionate about building real-world applications  
@@ -22,7 +22,7 @@
   
 I enjoy traveling and exploring new places 🌍, which inspires me to think creatively and build meaningful projects.
 
-  
+ </h2> 
 ---
 
 ## 💻 Tech Stack  
