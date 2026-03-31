@@ -14,11 +14,12 @@
 🚀 Focused on Web Development & AI/ML  
 📚 Currently learning Data Structures & Machine Learning  
 🎯 Goal: Become a Software Engineer  
+
 ---
-  
+
 ## ☄️ Fun fact
-  
-I enjoy traveling and exploring new places 🌍, which inspires me to think creatively and build meaningful projects.
+
+🌍 I enjoy traveling and exploring new places, which inspires creativity and helps me build meaningful projects.
 
 ---
 
