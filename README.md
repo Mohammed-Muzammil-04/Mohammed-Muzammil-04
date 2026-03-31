@@ -16,9 +16,10 @@
 🎯 Goal: Become a Software Engineer  
 <h3/>
 ---
+  
 <h3>
-### ☄️ Fun fact
-
+## ☄️ Fun fact
+  
 I enjoy traveling and exploring new places 🌍, which inspires me to think creatively and build meaningful projects.
 <h3/>
   
@@ -27,31 +28,8 @@ I enjoy traveling and exploring new places 🌍, which inspires me to think crea
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/CNN--GRU-6A1B9A?style=flat"/>
-<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat&logo=youtube"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg"/>
-<img src="https://img.shields.io/badge/Groq%20AI-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma"/>
+## 💻 Tech Stack  
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat) ![CNN--GRU](https://img.shields.io/badge/CNN--GRU-6A1B9A?style=flat) ![yt--dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat&logo=youtube&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq%20AI-000000?style=flat&logo=graphql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 </p>
 ---
 
