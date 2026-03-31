@@ -1,4 +1,4 @@
-<h1 <h3 align="center">🚀 Building Real-World Projects | Open to Opportunities</h3>="center">Hi 👋, I'm Mohammed Muzammil M</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Muzammil M</h1>
 
 <h3 align="center">🚀 Building Real-World Projects | Open to Opportunities</h3>
 
@@ -26,14 +26,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight" />
