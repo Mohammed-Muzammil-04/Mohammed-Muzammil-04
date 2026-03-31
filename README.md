@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammed Muzammil M</h1>
+<h1 <h3 align="center">🚀 Building Real-World Projects | Open to Opportunities</h3>="center">Hi 👋, I'm Mohammed Muzammil M</h1>
+
+<h3 align="center">🚀 Building Real-World Projects | Open to Opportunities</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Front-End+Engineer;AI+%2F+ML+Enthusiast;Building+Real-World+Projects" />
@@ -26,12 +28,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Muzammil-04&show_icons=true&theme=tokyonight" />
+</p>
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muzammil-04&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Muzammil-04&theme=tokyonight" />
 </p>
 
 ---
@@ -81,6 +86,13 @@
 </p>
 
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muzammil-04&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 
 ## ✨ Developer Quote
 
